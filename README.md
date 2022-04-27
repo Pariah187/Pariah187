@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike!
-- 👀 I’m interested in ... I can nerd out with the best of them in anything involving computers, art, music and so much more.
+- 👀 I’m interested in ... Anything involving computers, art, music and so much more.
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... anything that expands my skills and knowledge. 
 - 📫 How to reach me ... mike.hair@gmail.com
