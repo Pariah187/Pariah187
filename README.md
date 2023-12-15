@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike!
 - 👀 I’m interested in ... Anything involving computers, art, music and so much more.
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... anything that expands my skills and knowledge. 
+- 🌱 I’m currently learning ... C++
+- 💞️ I’m looking to collaborate on ... gaming mods and music plugins.
 - 📫 How to reach me ... mike.hair@gmail.com
 
 <!---
