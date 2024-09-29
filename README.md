@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mike!
-- 👀 I’m interested in ... Anything involving computers, art, music and so much more.
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... gaming mods and music plugins.
-- 📫 How to reach me ... mike.hair@gmail.com
+
+Sometimes I code for fun! Most of my experience comes from reverse engineering things to see how they work and occasionally will dive deeper into a particular language I'm interested in.
+
+One day I'll put it all together, I promise!
 
 <!---
 Pariah187/Pariah187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
